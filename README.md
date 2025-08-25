@@ -35,16 +35,17 @@ pip install -r requirements.txt
 python seathru-with-midas-depth-estimation.py --input raw_images/ --output corrected_images/ --midas-model MiDaS_small --size 5568
 ```
 
+
 # ATTRIBUTION
 Authors and Contributors of Sea-thru:
-[github.com/hainh/sea-thru/](https://github.com/hainh/sea-thru/)
-[A Revised Underwater Image Formation Model](https://openaccess.thecvf.com/content_cvpr_2018/papers/Akkaynak_A_Revised_Underwater_CVPR_2018_paper.pdf)
-[Sea-thru: A Method For Removing Water From Underwater Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf)
+- [github.com/hainh/sea-thru/](https://github.com/hainh/sea-thru/)
+- [A Revised Underwater Image Formation Model](https://openaccess.thecvf.com/content_cvpr_2018/papers/Akkaynak_A_Revised_Underwater_CVPR_2018_paper.pdf)
+- [Sea-thru: A Method For Removing Water From Underwater Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf)
 
 Authors and Contributors of MiDaS:
-[github.com/isl-org/MiDaS](https://github.com/isl-org/MiDaS)
-[Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer](https://arxiv.org/pdf/1907.01341)
-[MiDaS v3.1 – A Model Zoo for Robust Monocular Relative Depth Estimation](https://arxiv.org/pdf/2307.14460)
+- [github.com/isl-org/MiDaS](https://github.com/isl-org/MiDaS)
+- [Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer](https://arxiv.org/pdf/1907.01341)
+- [MiDaS v3.1 – A Model Zoo for Robust Monocular Relative Depth Estimation](https://arxiv.org/pdf/2307.14460)
 
 
 # LICENSE
